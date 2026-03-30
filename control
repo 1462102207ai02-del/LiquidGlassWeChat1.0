@@ -1,0 +1,9 @@
+Package: com.davinci.liquidglass
+Name: LiquidGlassWeChat
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Liquid Glass UI
+Maintainer: Davinci
+Author: Davinci
+Section: Tweaks
+Depends: mobilesubstrate
